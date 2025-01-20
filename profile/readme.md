@@ -3,6 +3,7 @@
 - official site: [scrapscript.org](https://scrapscript.org)
 - official spec: [scrapscript/scrapscript](https://github.com/scrapscript/scrapscript)
 - main implementation: [tekknolagi/scrapscript](https://github.com/tekknolagi/scrapscript)
+- chat: [gh](https://github.com/orgs/scrapscript/discussions) & [discourse](https://scrapscript.discourse.group)
 
 ## experiments
 
